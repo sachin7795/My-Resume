@@ -1,0 +1,72 @@
+h1{
+	font-family : forte;
+	
+	font-size : 60px;
+	margin : 0px 2px 0px 10px;
+	color:red;
+	
+	
+}
+
+#mor:hover{
+	cursor:pointer;
+}
+
+#aboutme{
+	margin : 10px 20px 20px 20px;
+	text-align : justify;
+}
+
+#labeli{
+	margin-left : 20px;
+	margin-bottom : 0px;
+}
+
+.nav, .dropdown-menu a{
+	font-size : 15px;
+	margin-top : 12px;
+	float : right;
+	
+}
+
+#imge{
+	margin-left : 10px;
+	height : 285px;
+	width : 200;
+}
+
+label{
+	width : 20%;
+	
+}
+
+#mainwell{
+	text-align : left;
+	padding : 20px;
+	margin-bottom : 0px;
+	font-size : 15px;
+}
+
+p,ul{
+	margin:20px;
+}
+
+
+#footer{
+	width : 97.5%;
+	background-color : black;
+	margin-left : 15px;
+	color : white;
+	padding :5px;
+	padding-right : 30px;
+	padding-left : 30px;
+	font-size : 15px;
+	
+	
+}
+.fimage{
+	width : 40px;
+	height : 40px;
+	float:right;
+	margin : 5px;
+}
